@@ -1,16 +1,13 @@
 ## Hi 👋, i'am Jeanne YOUNG
 I'm a UI/UX Designer but i love ❤️‍🔥 coding 😍
 
+# 💫 About Me:
 - 🧠 Computer Science Student <br/>
 - 🔭 I’m currently working as a freelancer 😎 <br/>
 - 🌱 I’m currently learning how to improve my programming skills <br/>
 - 💬 Ask me about user experience and coding <br/>
 - 😄 Pronouns: She/Her <br/>
 - ⚡ Fun fact: I REALLY LOOOOVVEEEE ANIMES ❤️ Sung Jin Woo my love 😩 <3 <br/>
-
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
 
 
 ## 🌐 Socials:
